@@ -20,7 +20,7 @@
 </p>
 
 <p align="center"><b>Visitor's Count</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/ jeevan221/count.svg" alt="visitor badge"/></p>
+<!-- <p align="center"><img src="https://profile-counter.glitch.me/ jeevan221/count.svg" alt="visitor badge"/></p> -->
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevan221&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
 
 <p align="center">
